@@ -1,3 +1,3 @@
-export { JSEncrypt } from "./JSEncrypt";
-import { JSEncrypt } from "./JSEncrypt";
+import JSEncrypt from "./JSEncrypt";
+export { JSEncrypt };
 export default JSEncrypt;
